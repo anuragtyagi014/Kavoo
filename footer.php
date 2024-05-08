@@ -4,6 +4,7 @@
 
 ?>
 
+
 <footer class="footer-sec">
 	<div class="container">
 		<div class="logo-box">
